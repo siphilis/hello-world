@@ -2,6 +2,6 @@
 
 int main(void)
 {
-    printf("Salut ma poule");
+    printf("Salut ma poule\n");
     return 0;
 }
